@@ -1,9 +1,10 @@
-# gracevisor
-Supervisor process control with graceful restarts
+# RumeelProcess
+A Process Control System Built for the Web
 
 ## Goal
 
 Goal of the project is to provide an all in one general solution for process supervision with graceful/hitless application reloads.
+This is testing methodology.
 
 ## Motivation
 
