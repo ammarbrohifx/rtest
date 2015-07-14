@@ -72,7 +72,7 @@ func main() {
 	app.Name = "gracevisorctl"
 	app.Usage = "Manage gracevisord"
 	app.Email = "jure@hamsworld.net"
-	app.Version = "0.0.1"
+	app.Version = version
 	app.Flags = []cli.Flag{
 		cli.StringFlag{
 			Name:  "host",
